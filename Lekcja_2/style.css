@@ -1,0 +1,33 @@
+body {
+    color: red;
+}
+
+#naglowek
+{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#baner
+{
+    border-radius: 8px;
+    box-shadow: 0 2px 8px green;
+}
+
+.wpis{
+    line-height: 1.6;
+    color: blue;
+    background-color: grey;
+    border-radius: 15%;
+}
+
+.autor
+{
+    color: yellow;
+    font-weight: bold;
+}
+
+.reakcje
+{
+    color: red;
+}
